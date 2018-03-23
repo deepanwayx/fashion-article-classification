@@ -7,5 +7,4 @@ The code is based on https://github.com/zalandoresearch/fashion-mnist
 
 
 Requirements:
-Keras (Tensorflow backend)
-Scikit-learn
+Keras (Tensorflow backend) & Scikit-learn
